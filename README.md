@@ -14,4 +14,4 @@
 
 ## 📊 LeetCode Stats## 📊 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/WeJprZ1673/) 
+| 🔥 **LeetCode** | [![LeetCode](https://img.shields.io/badge/LeetCode-FFA516?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/WeJprZ1673) |
