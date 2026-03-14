@@ -12,6 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush039-cmyk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 LeetCode Stats
+## 📊 LeetCode Stats## 📊 Coding Profiles
 
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/stats/WeJprZ1673)](https://leetcode.com/WeJprZ1673/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/WeJprZ1673/) 
