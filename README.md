@@ -7,9 +7,3 @@
 # 📊 LeetCode Stats
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA516?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/WeJprZ1673) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush039-cmyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush039-cmyk&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush039-cmyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
